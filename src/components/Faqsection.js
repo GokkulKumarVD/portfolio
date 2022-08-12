@@ -44,4 +44,4 @@ const Faqsection = () => {
     )
 }
 
-export default Faqsection
+export default Faqsection;
